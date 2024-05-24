@@ -1,5 +1,6 @@
 """
-ASGI config for asyncviews project.
+ASGI config fo
+asyncviews project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
